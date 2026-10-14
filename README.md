@@ -1,15 +1,7 @@
-<div align="center">
 
 ```
-██╗  ██╗███████╗ █████╗ ██████╗ ████████╗    ██████╗ ██╗  ██╗
-██║  ██║██╔════╝██╔══██╗██╔══██╗╚══██╔══╝    ██╔══██╗╚██╗██╔╝
-███████║█████╗  ███████║██████╔╝   ██║       ██████╔╝ ╚███╔╝ 
-██╔══██║██╔══╝  ██╔══██║██╔══██╗   ██║       ██╔══██╗ ██╔██╗ 
-██║  ██║███████╗██║  ██║██║  ██║   ██║       ██║  ██║██╔╝ ██╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝
-```
 
-# Heart Disease Prediction Model
+# cardio Disease Prediction Model
 
 **A production-grade, clinically interpretable ML pipeline achieving 100% AUC on external validation**
 
